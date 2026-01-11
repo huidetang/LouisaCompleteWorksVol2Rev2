@@ -1,17 +1,16 @@
 PREDEF:
-  - preface.re
+  - dedication.re
 
 CHAPS:
-  - ReVIEW独自マークアップ言語:
-    - how-to-use.re
-  - Markdown:
-    - markdown.re
-  - Microsoft word:
-    - word-ref.re
-    - custom-reference.re
+  - bouquet.re
+  - kuruna.re
+  - outoh-ki.re
+  - kawaii.re
+  - hokkai.re
+  - natsu-no-enishi.re
+  - yurodivy.re
 
 APPENDIX:
 
 POSTDEF:
   - postscript.re
-  - bib.re
